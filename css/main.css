@@ -1,0 +1,14 @@
+body {
+  background-color: #ECD078;
+  color: #53777A;
+}
+
+.clock {
+  margin-top: 100px;
+  margin-right: 140px;
+  margin-left: 140px;
+  text-align: center;
+  font-size: 200px;
+  font-family: verdana;
+  background-color: #2F2524;
+}
